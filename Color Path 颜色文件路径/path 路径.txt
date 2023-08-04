@@ -1,0 +1,10 @@
+COPY litegraph.core  TO:
+拷贝litegraph.core到：
+X(YOURS):\ComfyUI_X(YOURS)\ComfyUI\web\lib
+X(你的路径):\ComfyUI_X(你的路径)\ComfyUI\web\lib
+
+
+COPY colorPalette  TO:
+拷贝colorPalette到：
+X(YOURS):\ComfyUI\web\extensions\core
+X(你的路径):\ComfyUI\web\extensions\core
